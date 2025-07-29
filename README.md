@@ -31,7 +31,7 @@ A clean and responsive weather application that allows users to search for any c
 - Google Maps Link
 - Geolocation API
 - LocalStorage (for future caching)
-
+-Several apis
 ---
 
 ## 📂 Folder Structure
